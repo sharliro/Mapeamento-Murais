@@ -17,6 +17,7 @@ body {
     overflow-x: hidden;
 }
 #capa{display: flex;
+    align-items: center;
     width: 450px;
     height: 450px;
     
