@@ -16,6 +16,12 @@ body {
     line-height: 2em;
     overflow-x: hidden;
 }
+#capa{display: flex;
+    width: 450px;
+    height: 450px;
+    
+   
+}
 
 a {
     transition: all 0.3s ease;
